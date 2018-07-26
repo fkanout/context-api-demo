@@ -3,7 +3,10 @@ Zoo application to illustrate the new Context-API of React 16.3
 
 It's a simple app created by create-react-app cli
 
+# Usage:
 
 `npm install`
+
+Then
 
 `npm start`

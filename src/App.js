@@ -32,8 +32,8 @@ class Loin extends Component {
           {(context)=>{
              return (
               <React.Fragment>
-                <h1> 🦁 I'm HUNGRY, I want to eat {context.state.food} </h1>
-                <button onClick={context.moreMeat}>Give me more 🥩</button>
+                <h1> 🦁 I am HUNGRY, I want to eat {context.state.food} </h1>
+                <button onClick={context.moreMeat}>Give the lion more meat 🥩</button>
 
               </React.Fragment>
              )
